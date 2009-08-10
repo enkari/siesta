@@ -12,7 +12,7 @@ using Siesta.Framework;
 
 namespace Siesta
 {
-	public class BindRestModel : CustomModelBinderAttribute
+	public class BindRestModelAttribute : CustomModelBinderAttribute
 	{
 		public override IModelBinder GetBinder()
 		{

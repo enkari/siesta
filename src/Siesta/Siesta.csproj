@@ -60,7 +60,7 @@
   <ItemGroup>
     <Compile Include="Extensions\ExtensionsForIQueryableOfT.cs" />
     <Compile Include="Framework\RestModelBinder.cs" />
-    <Compile Include="BindRestModel.cs" />
+    <Compile Include="BindRestModelAttribute.cs" />
     <Compile Include="Extensions\ExtensionsForXmlNode.cs" />
     <Compile Include="Framework\ModelXmlReader.cs" />
     <Compile Include="Framework\ModelXmlWriter.cs" />
