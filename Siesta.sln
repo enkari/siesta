@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta", "src\Siesta\Siesta.csproj", "{171588FF-0D03-4DF5-90BB-992F1E241282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9ECC438B-A54C-4401-B826-C94F5817F805}"
+	ProjectSection(SolutionItems) = preProject
+		README.markdown = README.markdown
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta.Example", "src\Siesta.Example\Siesta.Example.csproj", "{0F06C331-430A-4444-9D7A-74B58C7C2632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171588FF-0D03-4DF5-90BB-992F1E241282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171588FF-0D03-4DF5-90BB-992F1E241282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171588FF-0D03-4DF5-90BB-992F1E241282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171588FF-0D03-4DF5-90BB-992F1E241282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F06C331-430A-4444-9D7A-74B58C7C2632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F06C331-430A-4444-9D7A-74B58C7C2632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F06C331-430A-4444-9D7A-74B58C7C2632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F06C331-430A-4444-9D7A-74B58C7C2632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
