@@ -7,11 +7,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Ninject;
-using Ninject.Modules;
-using Ninject.Web.Mvc;
 using Siesta.Example.Entities;
-using Siesta.Serializers;
 #endregion
 
 namespace Siesta.Example.Repositories

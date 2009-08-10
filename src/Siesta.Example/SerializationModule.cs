@@ -5,9 +5,7 @@
 #endregion
 #region Using Directives
 using System;
-using Ninject;
 using Ninject.Modules;
-using Ninject.Web.Mvc;
 using Siesta.Serializers;
 #endregion
 

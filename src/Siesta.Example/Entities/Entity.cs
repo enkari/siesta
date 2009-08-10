@@ -5,7 +5,6 @@
 #endregion
 #region Using Directives
 using System;
-using System.Runtime.Serialization;
 #endregion
 
 namespace Siesta.Example.Entities

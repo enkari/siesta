@@ -5,10 +5,8 @@
 #endregion
 #region Using Directives
 using System;
-using System.Collections.Generic;
 using System.Web;
 using System.Web.Mvc;
-using Siesta.Example.Repositories;
 #endregion
 
 namespace Siesta.Example.Controllers

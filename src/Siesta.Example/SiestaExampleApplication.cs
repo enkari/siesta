@@ -6,15 +6,13 @@
 #region Using Directives
 using System;
 using System.Configuration;
+using System.Web.Mvc;
 using System.Web.Routing;
 using CommonServiceLocator.NinjectAdapter;
 using Microsoft.Practices.ServiceLocation;
 using Ninject;
 using Ninject.Web.Mvc;
-using System.Web.Mvc;
 using RouteDebug;
-using Siesta.Example.Entities;
-using Siesta.Framework;
 #endregion
 
 namespace Siesta.Example

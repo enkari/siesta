@@ -5,7 +5,6 @@
 #endregion
 #region Using Directives
 using System;
-using System.IO;
 using System.Web.Mvc;
 using Microsoft.Practices.ServiceLocation;
 using Siesta.Framework;
