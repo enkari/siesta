@@ -1,7 +1,7 @@
 #region License
-// Copyright (C) 2008-2009 Enkari, Ltd. All rights reserved.
-// This code represents protected trade secrets of Enkari, Ltd. and may not be distributed,
-// reproduced, or retransmitted in any form without prior written consent from its creator.
+// Author: Nate Kohari <nate@enkari.com>
+// Copyright (c) 2009, Enkari, Ltd.
+// Licensed under the Apache License, Version 2.0. See the file LICENSE.txt for details.
 #endregion
 #region Using Directives
 using System;
